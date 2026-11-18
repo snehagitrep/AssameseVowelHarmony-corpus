@@ -25,12 +25,12 @@ Assamese has eight surface vowels. /i e o u/ are [+ATR] and /ɛ ɔ ʊ ɑ/ are [�
 
 ```
 metadata/
-  wordlist.csv            80 target words: Assamese script, IPA, word type, ATR pattern, carrier sentence
+  wordlist.csv            80 target words (W01-W80): Assamese script, IPA, word type, ATR pattern, carrier sentence
   speakers.csv            speaker ID, sex, age group, word tokens kept per speaker
 samples/
   beseri/   ekeloge/   dhemali/      .wav + .TextGrid for every sample token
-  samples.csv             one row per sample recording
-  vowel_segments.csv      one row per vowel in the samples, with onset, offset and ATR value
+  samples.csv             one row per sample recording (37)
+  vowel_segments.csv      one row per vowel in the samples (124), with onset, offset and ATR value
 results/
   lmm_midpoint_table4.csv       linear mixed models at the vowel midpoint (paper Table 4)
   gamm_fitted_trajectories.csv  GAMM fitted trajectories with 95% bands (paper Figs 3 and 4)
@@ -44,15 +44,36 @@ scripts/
 
 ### The sample set
 
-The sample has 138 recordings of three words, chosen because together they show the three outcomes of the harmony system:
+The sample has 37 recordings: one token of each of three words from every speaker who produced it. The three words were chosen because together they show the three outcomes of the harmony system.
 
 | Word | IPA | Pattern | Recordings | Speakers |
 |---|---|---|---|---|
-| beseri (বেচেৰী) | beseri | all [+ATR] | 53 | 13 |
-| ekeloge (একেলগে) | ɛkɛlɔgɛ | all [−ATR] | 47 | 13 |
-| dhemali (ধেমালি) | dʰɛmɑli | mixed: /ɑ/ blocks the spread from /i/ | 38 | 11 |
+| beseri (বেচেৰী) | beseri | all [+ATR] | 13 | 13 |
+| ekeloge (একেলগে) | ɛkɛlɔgɛ | all [−ATR] | 13 | 13 |
+| dhemali (ধেমালি) | dʰɛmɑli | mixed: /ɑ/ blocks the spread from /i/ | 11 | 11 |
+
+For each speaker we took the first repetition whose annotation matches the dictionary form of the word; one speaker has a single *ekeloge* token, which is included with its variant pronunciation. The sample is meant for checking recording quality, annotation conventions and file formats before requesting the full corpus, not for analysis on its own.
 
 Each recording contains the target word cut from its carrier sentence, as 16 kHz, 16-bit mono WAV. The annotation for each recording has the same file name with a `.TextGrid` extension. File names follow `<word>_<n>.wav`, where `n` is a running number and does not identify the speaker; use `samples/samples.csv` for the speaker of each file.
+
+## Datasheet
+
+**Purpose.** The corpus was built to measure the acoustic correlates of the ATR contrast in Assamese and to study vowel harmony in production. The word list balances harmonized and non-harmonized words so that the same vowels occur in different harmony contexts.
+
+**Collection.** Speakers were recruited through the IIT Guwahati community and compensated for their time. Each speaker read every word four or five times in a fixed carrier sentence in a sound-attenuated booth. Recordings were made at 48 kHz, 16 bit; the sample files here are 16 kHz mono copies.
+
+**Consent and ethics.** Informed consent was obtained from every participant. Public release is limited to metadata, model outputs and the small audio sample in this repository; the full recordings are shared only within the terms of participant consent and the institutional ethics approval. Speaker IDs are anonymous, exact ages are not released, and district of origin is reported only in aggregate.
+
+**Annotation.** Phone boundaries were placed by hand in Praat. Tokens with disfluencies, mispronunciations or recording problems were removed; pronunciation variants that are acceptable forms of the word were kept and labelled as heard.
+
+**Intended uses.** Acoustic and phonological research on Assamese vowels and vowel harmony; comparison with ATR systems in other languages; evaluating speech technology (for example speech synthesis or recognition) on harmony-sensitive vowel contrasts.
+
+**Limitations.**
+
+- Read speech in a carrier sentence, from 14 speakers of one regional variety (Upper Assam). Results may not carry over to spontaneous speech or other varieties.
+- The two ATR classes are not matched for height: only the [−ATR] set contains the low vowel /ɑ/, so pooled comparisons mix tongue-root and height effects.
+- Vowel categories are not equally frequent across the word list.
+- The corpus has acoustic data only; there are no articulatory (ultrasound, MRI) or EGG recordings.
 
 ## Requesting the full corpus
 
