@@ -36,10 +36,6 @@ results/
   gamm_fitted_trajectories.csv  GAMM fitted trajectories with 95% bands (paper Figs 3 and 4)
 docs/
   codebook.md             every column and every annotation label explained
-poster/
-  OCOCOSDA2026_Assamese_ATR_poster_A0.pdf
-scripts/
-  make_poster_figures.py  redraws the poster figures from the files above
 ```
 
 ### The sample set
