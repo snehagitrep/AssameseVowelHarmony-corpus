@@ -1,0 +1,48 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 0.511 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "segments" 
+        xmin = 0 
+        xmax = 0.511 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.1252831156716418 
+            text = "dɦ" 
+        intervals [2]:
+            xmin = 0.1252831156716418 
+            xmax = 0.19389266304347827 
+            text = "ɛ" 
+        intervals [3]:
+            xmin = 0.19389266304347827 
+            xmax = 0.2603335755813953 
+            text = "m" 
+        intervals [4]:
+            xmin = 0.2603335755813953 
+            xmax = 0.3341003690633625 
+            text = "ɑ" 
+        intervals [5]:
+            xmin = 0.3341003690633625 
+            xmax = 0.40879765764508935 
+            text = "l" 
+        intervals [6]:
+            xmin = 0.40879765764508935 
+            xmax = 0.511 
+            text = "i" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "word" 
+        xmin = 0 
+        xmax = 0.511 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.511 
+            text = "dhemali" 
