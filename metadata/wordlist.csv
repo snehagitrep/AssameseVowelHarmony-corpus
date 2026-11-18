@@ -1,0 +1,81 @@
+item_id,assamese,ipa,word_type,surface_vowels,atr_pattern,contains_low_a,carrier_sentence
+W01,পৰহি,porohi,harmonized,o o i,+++,no,মই পৰহি বুলি ক'লো
+W02,একেলগে,ɛkɛlɔgɛ,harmonized,ɛ ɛ ɔ ɛ,----,no,মই একেলগে বুলি ক'লো
+W03,ভাত্তা,bɑttɑ,harmonized,ɑ ɑ,--,yes,মই ভাত্তা বুলি ক'লো
+W04,এতিয়ালৈকে,etijɑloikɛ,non-harmonized,e i ɑ o i ɛ,++-++-,yes,মই এতিয়ালৈকে বুলি ক'লো
+W05,আলোচনী,ɑlʊsɔni,non-harmonized,ɑ ʊ ɔ i,---+,yes,মই আলোচনী বুলি ক'লো
+W06,ক'ব,kobo,harmonized,o o,++,no,মই ক'ব বুলি ক'লো
+W07,ক'বলগীয়া,kobologijɑ,non-harmonized,o o o i ɑ,++++-,yes,মই ক'বলগীয়া বুলি ক'লো
+W08,ক'বলৈ,koboloi,harmonized,o o o i,++++,no,মই ক'বলৈ বুলি ক'লো
+W09,ক'বা,kobɑ,non-harmonized,o ɑ,+-,yes,মই ক'বা বুলি ক'লো
+W10,এনেতে,ɛnɛtɛ,harmonized,ɛ ɛ ɛ,---,no,মই এনেতে বুলি ক'লো
+W11,এনেয়ে,eneije,harmonized,e e i e,++++,no,মই এনেয়ে বুলি ক'লো
+W12,এনেয়েও,eneijeu,harmonized,e e i e u,+++++,no,মই এনেয়েও বুলি ক'লো
+W13,জোকাৰি,zʊkɑri,non-harmonized,ʊ ɑ i,--+,yes,মই জোকাৰি বুলি ক'লো
+W14,ইফালে,iphɑlɛ,non-harmonized,i ɑ ɛ,+--,yes,মই ইফালে বুলি ক'লো
+W15,ইফালৰ,ipʰɑlɔr,non-harmonized,i ɑ ɔ,+--,yes,মই ইফালৰ বুলি ক'লো
+W16,কৰিছিলি,korisili,harmonized,o i i i,++++,no,মই কৰিছিলি বুলি ক'লো
+W17,কৰিছিলে,korisilɛ,non-harmonized,o i i ɛ,+++-,no,মই কৰিছিলে বুলি ক'লো
+W18,কৰিছিলো,korisilʊ,non-harmonized,o i i ʊ,+++-,no,মই কৰিছিলো বুলি ক'লো
+W19,গোটেইকেইটা,guteikeitɑ,non-harmonized,u e i e i ɑ,+++++-,yes,মই গোটেইকেইটা বুলি ক'লো
+W20,গোটেইখিনি,guteikʰini,harmonized,u e i i i,+++++,no,মই গোটেইখিনি বুলি ক'লো
+W21,নকৰিলে,nokorilɛ,non-harmonized,o o i ɛ,+++-,no,মই নকৰিলে বুলি ক'লো
+W22,নকৰিলেও,nokorileu,harmonized,o o i e u,+++++,no,মই নকৰিলেও বুলি ক'লো
+W23,নকৰিলো,nokorilu,harmonized,o o i u,++++,no,মই নকৰিলো বুলি ক'লো
+W24,হাতকেৰেয়া,hɑtkɛrɛjɑ,harmonized,ɑ ɛ ɛ ɑ,----,yes,মই হাতকেৰেয়া বুলি ক'লো
+W25,গৰম,gɔrɔm,harmonized,ɔ ɔ,--,no,মই গৰম বুলি ক'লো
+W26,কৰবি,korobi,harmonized,o o i,+++,no,মই কৰবি বুলি ক'লো
+W27,গৰমত,gɔrɔmɔt,harmonized,ɔ ɔ ɔ,---,no,মই গৰমত বুলি ক'লো
+W28,কবিতা,kobitɑ,non-harmonized,o i ɑ,++-,yes,মই কবিতা বুলি ক'লো
+W29,পাপৰী,pɑpori,non-harmonized,ɑ o i,-++,yes,মই পাপৰী বুলি ক'লো
+W30,বদলি,bodoli,harmonized,o o i,+++,no,মই বদলি বুলি ক'লো
+W31,বৰষুণ,boroxun,harmonized,o o u,+++,no,মই বৰষুণ বুলি ক'লো
+W32,কৰিবলগীয়া,koribologijɑ,non-harmonized,o i o o i ɑ,+++++-,yes,মই কৰিবলগীয়া বুলি ক'লো
+W33,প্রহৰী,prohori,harmonized,o o i,+++,no,মই প্রহৰী বুলি ক'লো
+W34,বগৰী,bogori,harmonized,o o i,+++,no,মই বগৰী বুলি ক'লো
+W35,আপদিয়া,ɑpodijɑ,non-harmonized,ɑ o i ɑ,-++-,yes,মই আপদিয়া বুলি ক'লো
+W36,অশ্লীল,ɔslil,non-harmonized,ɔ i,-+,no,মই অশ্লীল বুলি ক'লো
+W37,সৰকি,xoroki,harmonized,o o i,+++,no,মই সৰকি বুলি ক'লো
+W38,সোনাৰু,xʊnɑrʊ,harmonized,ʊ ɑ ʊ,---,yes,মই সোনাৰু বুলি ক'লো
+W39,জোনাক,zʊnɑk,harmonized,ʊ ɑ,--,yes,মই জোনাক বুলি ক'লো
+W40,জোনাকি,zʊnɑki,non-harmonized,ʊ ɑ i,--+,yes,মই জোনাকি বুলি ক'লো
+W41,পোহৰ,pʊhɔr,harmonized,ʊ ɔ,--,no,মই পোহৰ বুলি ক'লো
+W42,গোহালি,gʊhɑli,non-harmonized,ʊ ɑ i,--+,yes,মই গোহালি বুলি ক'লো
+W43,গচকি,gosoki,harmonized,o o i,+++,no,মই গচকি বুলি ক'লো
+W44,দিলে,dilɛ,non-harmonized,i ɛ,+-,no,মই দিলে বুলি ক'লো
+W45,দিলেই,dilei,harmonized,i e i,+++,no,মই দিলেই বুলি ক'লো
+W46,দিলেতো,dilɛtʊ,non-harmonized,i ɛ ʊ,+--,no,মই দিলেতো বুলি ক'লো
+W47,দিলেনে,dilɛnɛ,non-harmonized,i ɛ ɛ,+--,no,মই দিলেনে বুলি ক'লো
+W48,দিলো,dilʊ,non-harmonized,i ʊ,+-,no,মই দিলো বুলি ক'লো
+W49,দেখিছিলিনে,dekʰisilinɛ,non-harmonized,e i i i ɛ,++++-,no,মই দেখিছিলিনে বুলি ক'লো
+W50,দেখিছিলো,dekʰisilu,non-harmonized,e i i u,++++,no,মই দেখিছিলো বুলি ক'লো
+W51,দেখিছো,dekʰisʊ,non-harmonized,e i ʊ,++-,no,মই দেখিছো বুলি ক'লো
+W52,দেখিলে,dekʰilɛ,non-harmonized,e i ɛ,++-,no,মই দেখিলে বুলি ক'লো
+W53,একেডালে,ɛkɛdɑlɛ,harmonized,ɛ ɛ ɑ ɛ,----,yes,মই একেডালে বুলি ক'লো
+W54,দেখিলো,dekʰilʊ,non-harmonized,e i ʊ,++-,no,মই দেখিলো বুলি ক'লো
+W55,একেবাৰে,ɛkɛbɑrɛ,harmonized,ɛ ɛ ɑ ɛ,----,yes,মই একেবাৰে বুলি ক'লো
+W56,দেখিয়েই,dekʰijei,harmonized,e i e i,++++,no,মই দেখিয়েই বুলি ক'লো
+W57,দেখুৱাবলৈ,dekʰuwɑboloi,non-harmonized,e u ɑ o o i,++-+++,yes,মই দেখুৱাবলৈ বুলি ক'লো
+W58,পালো,pɑlʊ,harmonized,ɑ ʊ,--,yes,মই পালো বুলি ক'লো
+W59,পাহৰি,pɑhori,non-harmonized,ɑ o i,-++,yes,মই পাহৰি বুলি ক'লো
+W60,পালেনে,pɑlɛnɛ,harmonized,ɑ ɛ ɛ,---,yes,মই পালেনে বুলি ক'লো
+W61,বেচেৰী,beseri,harmonized,e e i,+++,no,মই বেচেৰী বুলি ক'লো
+W62,ফেদেলি,pʰedeli,harmonized,e e i,+++,no,মই ফেদেলি বুলি ক'লো
+W63,পেটেলি,peteli,harmonized,e e i,+++,no,মই পেটেলি বুলি ক'লো
+W64,চেদেলি ভেদেলি,sedelibʰedeli,harmonized,e e i e e i,++++++,no,মই চেদেলি ভেদেলি বুলি ক'লো
+W65,লেটেকু,leteku,harmonized,e e u,+++,no,মই লেটেকু বুলি ক'লো
+W66,মেলেৰিয়া,melerijɑ,non-harmonized,e e i ɑ,+++-,yes,মই মেলেৰিয়া বুলি ক'লো
+W67,চেঙেলীয়া,seŋelijɑ,non-harmonized,e e i ɑ,+++-,yes,মই চেঙেলীয়া বুলি ক'লো
+W68,পদবি,podobi,harmonized,o o i,+++,no,মই পদবি বুলি ক'লো
+W69,আলসুৱা,ɑloxuwɑ,non-harmonized,ɑ o u ɑ,-++-,yes,মই আলসুৱা বুলি ক'লো
+W70,অলস,ɔlɔx,harmonized,ɔ ɔ,--,no,মই অলস বুলি ক'লো
+W71,আলাশ,ɑlɑx,harmonized,ɑ ɑ,--,yes,মই আলাশ বুলি ক'লো
+W72,এলাহ,ɛlɑh,harmonized,ɛ ɑ,--,yes,মই এলাহ বুলি ক'লো
+W73,এলেহুৱা,elehuwɑ,non-harmonized,e e u ɑ,+++-,yes,মই এলেহুৱা বুলি ক'লো
+W74,পলস,pɔlɔx,harmonized,ɔ ɔ,--,no,মই পলস বুলি ক'লো
+W75,পলসুৱা,poloxuwɑ,non-harmonized,o o u ɑ,+++-,yes,মই পলসুৱা বুলি ক'লো
+W76,পলৰীয়া,polorijɑ,non-harmonized,o o i ɑ,+++-,yes,মই পলৰীয়া বুলি ক'লো
+W77,ধেমালি,dʰɛmɑli,non-harmonized,ɛ ɑ i,--+,yes,মই ধেমালি বুলি ক'লো
+W78,ফটফটিয়া,pʰotpʰotijɑ,non-harmonized,o o i ɑ,+++-,yes,মই ফটফটিয়া বুলি ক'লো
+W79,অকলশৰীয়া,okolxorijɑ,non-harmonized,o o o i ɑ,++++-,yes,মই অকলশৰীয়া বুলি ক'লো
+W80,ভেটফুল,bʰɛtpʰʊl,non-harmonized,ɛ ʊ,--,no,মই ভেটফুল বুলি ক'লো
