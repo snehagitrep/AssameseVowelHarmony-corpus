@@ -1,0 +1,60 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 0.6443125 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "segments" 
+        xmin = 0 
+        xmax = 0.6443125 
+        intervals: size = 9 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.08741489361702127 
+            text = "" 
+        intervals [2]:
+            xmin = 0.08741489361702127 
+            xmax = 0.17502232142857146 
+            text = "ɛ" 
+        intervals [3]:
+            xmin = 0.17502232142857146 
+            xmax = 0.2683776355421687 
+            text = "k" 
+        intervals [4]:
+            xmin = 0.2683776355421687 
+            xmax = 0.3409353544776119 
+            text = "ɛ" 
+        intervals [5]:
+            xmin = 0.3409353544776119 
+            xmax = 0.39773561507936506 
+            text = "l" 
+        intervals [6]:
+            xmin = 0.39773561507936506 
+            xmax = 0.47719151785714287 
+            text = "ɔ" 
+        intervals [7]:
+            xmin = 0.47719151785714287 
+            xmax = 0.5268619791666667 
+            text = "g" 
+        intervals [8]:
+            xmin = 0.5268619791666667 
+            xmax = 0.6094290499427517 
+            text = "ɛ" 
+        intervals [9]:
+            xmin = 0.6094290499427517 
+            xmax = 0.6443125 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "word" 
+        xmin = 0 
+        xmax = 0.6443125 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.6443125 
+            text = "ekeloge" 
